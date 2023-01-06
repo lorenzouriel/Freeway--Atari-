@@ -1,4 +1,4 @@
-# Freeway--Atari-
+# Freeway Atari 
 Jogo Freeway do Atari criado em JavaScript
 
 Código Adicionado as pastas
